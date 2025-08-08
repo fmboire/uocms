@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Ottawa//Colloquium Series//EN
+BEGIN:VEVENT
+UID:20250925-ayers@uottawa.ca
+DTSTAMP:20250808T134940Z
+DTSTART:20250925T130000Z
+DTEND:20250925T140000Z
+SUMMARY:Talk by Paul Ayers
+LOCATION:University of Ottawa, STEM building, room 664
+URL:https://www.chemistry.mcmaster.ca/ayers/1_Paul/about.html
+END:VEVENT
+END:VCALENDAR

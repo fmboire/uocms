@@ -1,0 +1,41 @@
+/* Import Computer Modern (Latin Modern) fonts */
+@import url('https://fonts.googleapis.com/css2?family=Latin+Modern+Roman&family=Latin+Modern+Sans&family=Latin+Modern+Mono&display=swap');
+
+body {
+  background-color: white !important;
+  color: black !important;
+  font-family: 'Latin Modern Roman', serif;
+  text-align: justify;
+}
+
+.navbar,
+.sidebar,
+.page-footer {
+  background-color: white !important;
+  color: black !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5 {
+  font-family: 'Latin Modern Sans', sans-serif;
+}
+
+/* Code */
+code, pre {
+  font-family: 'Latin Modern Mono', monospace;
+}
+
+/* Links */
+a, a:visited {
+  color: blue !important;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Hide in-text citations */
+.citation {
+  display: none !important;
+}
