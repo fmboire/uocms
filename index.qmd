@@ -1,9 +1,10 @@
 ---
 title: "University of Ottawa Colloquium in Mathematics and Statistics"
 format: html
+css: styles/custom.css
 ---
 
-Welcome to the University of Ottawa Colloquium Series in Mathematics and Statistics (UOCMS). This series features talks by researchers from a variety of institutions, presenting current topics in mathematics and statistics.
+Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UOCMS). This colloquium series features talks by researchers from a variety of institutions, presenting current topics in mathematics and statistics.
 
 ## Fall 2025  
 **Time:** Thursdays, 1:00-2:00 pm  
