@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Ottawa//Colloquium in Mathematics and Statistics//EN
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:colloquium2025@uottawa.ca
+DTSTAMP:20240814T120000Z
+DTSTART;TZID=America/Toronto:20250904T130000
+DTEND;TZID=America/Toronto:20250904T140000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20251113T235959Z
+SUMMARY:Fall 2025 Colloquium Series
+LOCATION:University of Ottawa, STEM building, room 664
+URL:https://uottawa-ca.zoom.us/j/97398086827?pwd=SFsYcy4201I8ZRkgqqSc1XDpUqyPPT.1
+DESCRIPTION:Join Zoom Meeting:\nhttps://uottawa-ca.zoom.us/j/97398086827?pwd=SFsYcy4201I8ZRkgqqSc1XDpUqyPPT.1\n\nMeeting ID: 973 9808 6827\nPasscode: ZxVq0L\n\nOne tap mobile:\n+14388097799,,97398086827#,,,,*ZxVq0L# Canada\n+15873281099,,97398086827#,,,,*ZxVq0L# Canada\n\nJoin by SIP:\n97398086827@zoomcrc.com\n\nJoin instructions:\nhttps://uottawa-ca.zoom.us/meetings/97398086827/invitations?signature=MiXz7hPPksxnsztPFhecytbCHQkX4sxgoINXk793ubA
+END:VEVENT
+END:VCALENDAR

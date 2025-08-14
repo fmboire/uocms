@@ -7,35 +7,34 @@ css: styles/custom.css
 Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UOCMS). This colloquium series features talks by researchers from a variety of institutions, presenting current topics in mathematics and statistics.
 
 ## Fall 2025  
-**Time:** Thursdays, 1:00-2:00 pm  
+**Time:** Thursdays, 1:00-2:00 pm
 **Location:** University of Ottawa, STEM building, room 664  
+[![Add to Calendar](https://upload.wikimedia.org/wikipedia/commons/0/0b/Calendar_icon_2.svg)](calendar/uocms_fall2025.ics)
 
-1. [Francesca Bartolucci](https://sites.google.com/view/bartoluccifrancesca)  
+1. [Susanne Pumpluen](https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen)  
+*University of Nottingham*  
+**Date:** September 4, 2025  
+
+---
+
+2. [Francesca Bartolucci](https://sites.google.com/view/bartoluccifrancesca)  
 *Delft University of Technology*  
 **Date:** September 11, 2025  
-**Title:** _TBD_  
-[Add to calendar](calendar/bartolucci_fall2025.ics)
 
 ---
 
-2. [Emanuele Naldi](https://sites.google.com/view/emanuelenaldi/home-page)  
+3. [Emanuele Naldi](https://sites.google.com/view/emanuelenaldi/home-page)  
 *University of Genoa*  
 **Date:** September 18, 2025  
-**Title:** _TBD_  
-[Add to calendar](calendar/naldi_fall2025.ics)
 
 ---
 
-3. [Paul Ayers](https://www.chemistry.mcmaster.ca/ayers/1_Paul/about.html)  
+4. [Paul Ayers](https://www.chemistry.mcmaster.ca/ayers/1_Paul/about.html)  
 *McMaster University*  
 **Date:** September 25, 2025  
-**Title:** _TBD_  
-[Add to calendar](calendar/ayers_fall2025.ics)
 
 ---
 
-4. [Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home)  
+5. [Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home)  
 *Bank of Canada*  
 **Date:** November 13, 2025  
-**Title:** _Generalized Autoregressive Positive-valued Processes_  
-[Add to calendar](calendar/kamkui_fall2025.ics)
