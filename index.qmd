@@ -7,9 +7,9 @@ css: styles/custom.css
 Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UOCMS). This colloquium series features talks by researchers from a variety of institutions, presenting current topics in mathematics and statistics.
 
 ## Fall 2025  
-**Time:** Thursdays, 1:00-2:00 pm
+**Time:** Thursdays, 1:00-2:00 pm  
 **Location:** University of Ottawa, STEM building, room 664  
-[![Add to Calendar](https://upload.wikimedia.org/wikipedia/commons/0/0b/Calendar_icon_2.svg)](calendar/uocms_fall2025.ics)
+[Add to Calendar](calendar/uocms_fall2025.ics)
 
 1. [Susanne Pumpluen](https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen)  
 *University of Nottingham*  
