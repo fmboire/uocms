@@ -22,11 +22,6 @@ body {
   max-width: 1400px !important; /* was ~940px */
 }
 
-/* Prevent the page title from wrapping */
-.quarto-title-block .title {
-  white-space: nowrap;
-}
-
 /* Optional: make title font size smaller if it's still too long */
 .quarto-title-block .title {
   font-size: 2.2rem; /* adjust as needed */
