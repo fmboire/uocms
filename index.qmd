@@ -4,6 +4,12 @@ format: html
 css: styles/custom.css
 ---
 
+<div class="logos">
+  <img src="logos/uo.png">
+  <img src="logos/crm.png">
+  <img src="logos/timc.png">
+</div>
+
 Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UOCMS). This series brings together researchers from diverse institutions to present talks on current developments in mathematics and statistics.
 
 ## Fall 2025  
@@ -11,7 +17,7 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 **Location:** University of Ottawa, STEM building, room 664  
 [Add to Calendar](calendar/uocms_fall2025.ics)
 
-1. [Susanne Pumpluen](https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen), University of Nottingham  
+[Susanne Pumpluen](https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen), University of Nottingham  
 **Title:** On skew constacyclic codes and their surprising connection to nonassociative algebra  
 **Date:** September 4, 2025  
 **Abstract:** *Cyclic, constacyclic and skew constacyclic codes are some of the most important and most investigated classes of linear codes (some are now also being used to build quantum error-correcting codes).
@@ -21,20 +27,33 @@ In the second part, we will address the problem how to classify skew constacycli
 
 ---
 
-2. [Francesca Bartolucci](https://sites.google.com/view/bartoluccifrancesca), Delft University of Technology    
+[Francesca Bartolucci](https://sites.google.com/view/bartoluccifrancesca), Delft University of Technology    
 **Date:** September 11, 2025  
 
 ---
 
-3. [Emanuele Naldi](https://sites.google.com/view/emanuelenaldi/home-page), University of Genoa  
+[Emanuele Naldi](https://sites.google.com/view/emanuelenaldi/home-page), University of Genoa  
 **Date:** September 18, 2025  
 
 ---
 
-4. [Paul Ayers](https://www.chemistry.mcmaster.ca/ayers/1_Paul/about.html), McMaster University  
+[Paul Ayers](https://www.chemistry.mcmaster.ca/ayers/1_Paul/about.html), McMaster University  
 **Date:** September 25, 2025  
 
 ---
 
-5. [Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home), Bank of Canada  
+[Alejandro Adem](https://personal.math.ubc.ca/~adem/), University of British Columbia  
+**Date:** October 23, 2025  
+
+---
+
+[Florian Dumpert](https://scholar.google.com/citations?user=Ry3IviAAAAAJ&hl=de), Federal Statistical Office of Germany  
+**Date:** October 30, 2025  
+
+---
+
+[Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home), Bank of Canada  
 **Date:** November 13, 2025  
+
+
+

@@ -51,3 +51,13 @@ a:hover {
 .citation {
   display: none !important;
 }
+
+.logos {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.logos img {
+  height: 60px;
+  margin: 0 12px;
+}
