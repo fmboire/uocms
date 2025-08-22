@@ -42,6 +42,11 @@ In the second part, we will address the problem how to classify skew constacycli
 
 ---
 
+[Jen Hom](https://jhom6.math.gatech.edu/), Georgia Institute of Technology  
+**Date:** October 2, 2025  
+
+---
+
 [Alejandro Adem](https://personal.math.ubc.ca/~adem/), University of British Columbia  
 **Date:** October 23, 2025  
 
