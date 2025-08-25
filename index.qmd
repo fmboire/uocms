@@ -20,10 +20,10 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 [Susanne Pumpluen](https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen), University of Nottingham  
 **Title:** On Skew Constacyclic Codes and their Surprising Connection to Nonassociative Algebra  
 **Date:** September 4, 2025  
-**Abstract:** *Cyclic, constacyclic and skew constacyclic codes are some of the most important and most investigated classes of linear codes (some are now also being used to build quantum error-correcting codes).
+**Abstract:** Cyclic, constacyclic and skew constacyclic codes are some of the most important and most investigated classes of linear codes (some are now also being used to build quantum error-correcting codes).
 Their cyclic structure allows us to characterize them using  polynomials or skew polynomials, and to describe them as ideals in an algebra. More precisely, each codeword corresponds to a (skew) polynomial in a suitable chosen ideal of its ambient algebra.
 This ambient algebra may, however, be not associative. This is not well known, as all approaches so far only worked with associative ambient algebras or divert to ambient submodules. In the first part of the talk we will thus set up a cohesive theory that includes the nonassociative case.
-In the second part, we will address the problem how to classify skew constacyclic codes using the isomorphisms of their ambient algebras. We propose a new definition of equivalence that will result in tighter code classifications than previously presented ones, and will help to de-duplicate codes with the same performance paramenters. We prove with combinatorial methods that the notions of isometry and equivalence defined by Ou-azzou et al. (2025) coincide when the ambient algebras are not associative.*
+In the second part, we will address the problem how to classify skew constacyclic codes using the isomorphisms of their ambient algebras. We propose a new definition of equivalence that will result in tighter code classifications than previously presented ones, and will help to de-duplicate codes with the same performance paramenters. We prove with combinatorial methods that the notions of isometry and equivalence defined by Ou-azzou et al. (2025) coincide when the ambient algebras are not associative.
 
 ---
 
