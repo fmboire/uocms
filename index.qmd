@@ -14,7 +14,7 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 ## Fall 2025  
 **Time:** Thursdays, 1:00-2:00 pm  
-**Location:** University of Ottawa, STEM building, room 664  
+**Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
 [Add to Calendar](calendar/uocms_fall2025.ics)
 
 
@@ -81,6 +81,7 @@ future research.
 
 [Jen Hom](https://jhom6.math.gatech.edu/), Georgia Institute of Technology  
 **Date:** October 2, 2025  
+**Location:** Exceptionally, this colloquium will take place in STEM 464.  
 
 ---
 
@@ -91,6 +92,7 @@ future research.
 
 [Florian Dumpert](https://scholar.google.com/citations?user=Ry3IviAAAAAJ&hl=de), Federal Statistical Office of Germany  
 **Date:** October 30, 2025  
+**Location:** Exceptionally, this colloquium will take place in STEM 464.  
 
 ---
 
