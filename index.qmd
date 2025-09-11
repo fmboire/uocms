@@ -19,7 +19,7 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 
 [Francesca Bartolucci](https://sites.google.com/view/bartoluccifrancesca), Delft University of Technology    
-**Title:** Representation Equivalent Neural Operators: a Framework for Alias-free Operator Learning  
+**Title:** [Representation Equivalent Neural Operators: a Framework for Alias-free Operator Learning](https://arxiv.org/abs/2305.19913)  
 **Date:** September 4, 2025  
 **Abstract:** Recently, operator learning, or learning mappings between infinite-dimensional 
 function spaces, has garnered significant attention, notably in relation to learning partial 
@@ -33,6 +33,7 @@ generally, this framework not only sheds light on existing challenges but, given
 constructive and broad nature, also potentially offers tools for developing new neural 
 operators. This is a joint work with Rima Alaifari, Emmanuel de Bézenac, Siddhartha Mishra, 
 Roberto Molinaro and Bogdan Raonić.  
+[Slides](slides/Bartolucci.pdf)  
 
 ---
 
@@ -74,14 +75,14 @@ future research.
 
 ---
 
-[Paul Ayers](https://www.chemistry.mcmaster.ca/ayers/1_Paul/about.html), McMaster University  
-**Date:** September 25, 2025  
-
----
-
 [Jen Hom](https://jhom6.math.gatech.edu/), Georgia Institute of Technology  
 **Date:** October 2, 2025  
 **Location:** Exceptionally, this colloquium will take place in STEM 464.  
+
+---
+
+[Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/), McGill University  
+**Date:** October 16, 2025  
 
 ---
 
