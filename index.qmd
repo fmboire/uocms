@@ -38,8 +38,8 @@ Roberto Molinaro and Bogdan Raonić.
 ---
 
 
-[Susanne Pumpluen](https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen), University of Nottingham  
-**Title:** On Skew Constacyclic Codes and their Surprising Connection to Nonassociative Algebra  
+[Susanne Pumplün](https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen), University of Nottingham  
+**Title:** [On Skew Constacyclic Codes and their Surprising Connection to Nonassociative Algebra](https://arxiv.org/html/2508.06695v1)  
 **Date:** September 11, 2025  
 **Abstract:** Cyclic, constacyclic and skew constacyclic codes are some of the most important and 
 most investigated classes of linear codes (some are now also being used to build quantum 
@@ -82,10 +82,6 @@ future research.
 
 ---
 
-[Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/), McGill University  
-**Date:** October 16, 2025  
-
----
 
 [Alejandro Adem](https://personal.math.ubc.ca/~adem/), University of British Columbia  
 **Date:** October 23, 2025  
@@ -98,8 +94,18 @@ future research.
 
 ---
 
+[Jeremy Quastel](https://www.math.toronto.edu/quastel/), University of Toronto  
+**Date:** November 6, 2025  
+
+---
+
 [Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home), Bank of Canada  
 **Date:** November 13, 2025  
 
+---
 
+[Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/), McGill University  
+**Date:** December 4, 2025  
+
+---
 
