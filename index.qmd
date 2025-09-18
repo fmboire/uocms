@@ -19,7 +19,57 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 ## Upcoming Lectures
 
-[Emanuele Naldi](https://sites.google.com/view/emanuelenaldi/home-page), University of Genoa  
+**Speaker:** [Sumiya Baasandorj](https://scholar.google.com/citations?user=QyoI7fQAAAAJ&hl=en), University of Ottawa  
+**Title:** Regularity for a class of (non)variational problems with (non)standard growth  
+**Date:** September 25, 2025  
+**Abstract:** Regularity issues in (non)variational problems with (non)standard growth have been
+a central topic of analysis, witnessing tremendous development over the past century.
+Regularity techniques ultimately aim to show that suitable weak or distributional solutions
+are, in fact, classical solutions. In this talk, I will present some recent regularity
+results for a class of variational functionals with nonstandard growth conditions,
+namely the so-called Orlicz double phase functional. This will involve revisiting the
+fundamental contributions of De Giorgi and Nash and connecting them with recent advances
+in nonuniformly elliptic problems. Furthermore, I will try to give an overview of
+the regularity theory for nonvariational elliptic problems, such as the Monge–Amp`ere
+equation, and discuss its connections to optimal transport theory.  
+
+---
+
+**Speaker:** [Jen Hom](https://jhom6.math.gatech.edu/), Georgia Institute of Technology  
+**Date:** October 2, 2025  
+**Location:** Exceptionally, this colloquium will take place in STEM 464.  
+
+---
+
+**Speaker:** [Alejandro Adem](https://personal.math.ubc.ca/~adem/), University of British Columbia  
+**Date:** October 23, 2025  
+
+---
+
+**Speaker:** [Florian Dumpert](https://scholar.google.com/citations?user=Ry3IviAAAAAJ&hl=de), Federal Statistical Office of Germany  
+**Date:** October 30, 2025  
+**Location:** Exceptionally, this colloquium will take place in STEM 464.  
+
+---
+
+**Speaker:** [Jeremy Quastel](https://www.math.toronto.edu/quastel/), University of Toronto  
+**Date:** November 6, 2025  
+
+---
+
+**Speaker:** [Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home), Bank of Canada  
+**Date:** November 13, 2025  
+
+---
+
+**Speaker:** [Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/), McGill University  
+**Date:** December 4, 2025  
+
+---
+
+## Past Lectures
+
+**Speaker:** [Emanuele Naldi](https://sites.google.com/view/emanuelenaldi/home-page), University of Genoa  
 **Title:** [Inexact Jordan–Kinderlehrer–Otto and Proximal-gradient Algorithms in the Wasserstein Space: Links and Differences from the Hilbert Case](https://arxiv.org/abs/2505.23517)  
 **Date:** September 18, 2025  
 **Abstract:** In this talk, we explore the asymptotic convergence properties
@@ -39,60 +89,11 @@ the nonexpansivity of the proximity operator generally fails, even for
 geodesically convex functionals. We discuss the class of functions for
 which this property still holds and highlight potential directions for
 future research.  
+[Lecture slides](slides/Naldi.pdf)  
 
 ---
 
-[Sumiya Baasandorj](https://scholar.google.com/citations?user=QyoI7fQAAAAJ&hl=en), University of Ottawa  
-**Title:** Regularity for a class of (non)variational problems with (non)standard growth  
-**Date:** September 25, 2025  
-**Abstract:** Regularity issues in (non)variational problems with (non)standard growth have been
-a central topic of analysis, witnessing tremendous development over the past century.
-Regularity techniques ultimately aim to show that suitable weak or distributional solutions
-are, in fact, classical solutions. In this talk, I will present some recent regularity
-results for a class of variational functionals with nonstandard growth conditions,
-namely the so-called Orlicz double phase functional. This will involve revisiting the
-fundamental contributions of De Giorgi and Nash and connecting them with recent advances
-in nonuniformly elliptic problems. Furthermore, I will try to give an overview of
-the regularity theory for nonvariational elliptic problems, such as the Monge–Amp`ere
-equation, and discuss its connections to optimal transport theory.  
-
----
-
-[Jen Hom](https://jhom6.math.gatech.edu/), Georgia Institute of Technology  
-**Date:** October 2, 2025  
-**Location:** Exceptionally, this colloquium will take place in STEM 464.  
-
----
-
-[Alejandro Adem](https://personal.math.ubc.ca/~adem/), University of British Columbia  
-**Date:** October 23, 2025  
-
----
-
-[Florian Dumpert](https://scholar.google.com/citations?user=Ry3IviAAAAAJ&hl=de), Federal Statistical Office of Germany  
-**Date:** October 30, 2025  
-**Location:** Exceptionally, this colloquium will take place in STEM 464.  
-
----
-
-[Jeremy Quastel](https://www.math.toronto.edu/quastel/), University of Toronto  
-**Date:** November 6, 2025  
-
----
-
-[Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home), Bank of Canada  
-**Date:** November 13, 2025  
-
----
-
-[Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/), McGill University  
-**Date:** December 4, 2025  
-
----
-
-## Past Lectures
-
-[Susanne Pumplün](https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen), University of Nottingham  
+**Speaker:** [Susanne Pumplün](https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen), University of Nottingham  
 **Title:** [On Skew Constacyclic Codes and their Surprising Connection to Nonassociative Algebra](https://arxiv.org/html/2508.06695v1)  
 **Date:** September 11, 2025  
 **Abstract:** Cyclic, constacyclic and skew constacyclic codes are some of the most important and 
@@ -107,7 +108,7 @@ talk we will thus set up a cohesive theory that includes the nonassociative case
 
 ---
 
-[Francesca Bartolucci](https://sites.google.com/view/bartoluccifrancesca), Delft University of Technology    
+**Speaker:** [Francesca Bartolucci](https://sites.google.com/view/bartoluccifrancesca), Delft University of Technology    
 **Title:** [Representation Equivalent Neural Operators: a Framework for Alias-free Operator Learning](https://arxiv.org/abs/2305.19913)  
 **Date:** September 4, 2025  
 **Abstract:** Recently, operator learning, or learning mappings between infinite-dimensional 
