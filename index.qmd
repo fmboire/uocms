@@ -43,7 +43,18 @@ future research.
 ---
 
 [Sumiya Baasandorj](https://scholar.google.com/citations?user=QyoI7fQAAAAJ&hl=en), University of Ottawa  
-**Date:** October 25, 2025  
+**Title:** Regularity for a class of (non)variational problems with (non)standard growth  
+**Date:** September 25, 2025  
+**Abstract:** Regularity issues in (non)variational problems with (non)standard growth have been
+a central topic of analysis, witnessing tremendous development over the past century.
+Regularity techniques ultimately aim to show that suitable weak or distributional solutions
+are, in fact, classical solutions. In this talk, I will present some recent regularity
+results for a class of variational functionals with nonstandard growth conditions,
+namely the so-called Orlicz double phase functional. This will involve revisiting the
+fundamental contributions of De Giorgi and Nash and connecting them with recent advances
+in nonuniformly elliptic problems. Furthermore, I will try to give an overview of
+the regularity theory for nonvariational elliptic problems, such as the Monge–Amp`ere
+equation, and discuss its connections to optimal transport theory.  
 
 ---
 
