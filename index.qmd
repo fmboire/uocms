@@ -20,7 +20,7 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 ## Upcoming Lectures
 
 **Speaker:** [Sumiya Baasandorj](https://scholar.google.com/citations?user=QyoI7fQAAAAJ&hl=en), University of Ottawa  
-**Title:** Regularity for a class of (non)variational problems with (non)standard growth  
+**Title:** Regularity for a Class of (Non)Variational Problems with (Non)Standard Growth  
 **Date:** September 25, 2025  
 **Abstract:** Regularity issues in (non)variational problems with (non)standard growth have been
 a central topic of analysis, witnessing tremendous development over the past century.
@@ -36,8 +36,14 @@ equation, and discuss its connections to optimal transport theory.
 ---
 
 **Speaker:** [Jen Hom](https://jhom6.math.gatech.edu/), Georgia Institute of Technology  
+**Title:** 3-Manifolds, Groups, and Heegaard Floer Homology  
 **Date:** October 2, 2025  
 **Location:** Exceptionally, this colloquium will take place in STEM 464.  
+**Abstract:** We will consider various ways to build 3-manifolds. Under the operation of connected sum, 
+the set of 3-manifolds forms a monoid, and modulo an appropriate equivalence relation, this monoid becomes
+ a group. What is the structure of this group? What families of three-manifolds generate (or don’t generate) 
+ this group? We give some answers to these questions using Heegaard Floer homology. This is joint work with
+  (various subsets of) I. Dai, K. Hendricks, M. Stoffregen, L. Truong, and I. Zemke.  
 
 ---
 
@@ -75,7 +81,7 @@ equation, and discuss its connections to optimal transport theory.
 ## Past Lectures
 
 **Speaker:** [Emanuele Naldi](https://sites.google.com/view/emanuelenaldi/home-page), University of Genoa  
-**Title:** [Inexact Jordan–Kinderlehrer–Otto and Proximal-gradient Algorithms in the Wasserstein Space: Links and Differences from the Hilbert Case](https://arxiv.org/abs/2505.23517)  
+**Title:** [Inexact Jordan–Kinderlehrer–Otto and Proximal-Gradient Algorithms in the Wasserstein Space: Links and Differences from the Hilbert Case](https://arxiv.org/abs/2505.23517)  
 **Date:** September 18, 2025  
 **Abstract:** In this talk, we explore the asymptotic convergence properties
 of inexact Jordan–Kinderlehrer–Otto (JKO) scheme and proximal-gradient
@@ -114,7 +120,7 @@ talk we will thus set up a cohesive theory that includes the nonassociative case
 ---
 
 **Speaker:** [Francesca Bartolucci](https://sites.google.com/view/bartoluccifrancesca), Delft University of Technology    
-**Title:** [Representation Equivalent Neural Operators: a Framework for Alias-free Operator Learning](https://arxiv.org/abs/2305.19913)  
+**Title:** [Representation Equivalent Neural Operators: A Framework for Alias-Free Operator Learning](https://arxiv.org/abs/2305.19913)  
 **Date:** September 4, 2025  
 **Abstract:** Recently, operator learning, or learning mappings between infinite-dimensional 
 function spaces, has garnered significant attention, notably in relation to learning partial 
