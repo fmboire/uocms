@@ -19,22 +19,6 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 ## Upcoming Lectures
 
-**Speaker:** [Sumiya Baasandorj](https://scholar.google.com/citations?user=QyoI7fQAAAAJ&hl=en), University of Ottawa  
-**Title:** Regularity for a Class of (Non)Variational Problems with (Non)Standard Growth  
-**Date:** September 25, 2025  
-**Abstract:** Regularity issues in (non)variational problems with (non)standard growth have been
-a central topic of analysis, witnessing tremendous development over the past century.
-Regularity techniques ultimately aim to show that suitable weak or distributional solutions
-are, in fact, classical solutions. In this talk, I will present some recent regularity
-results for a class of variational functionals with nonstandard growth conditions,
-namely the so-called Orlicz double phase functional. This will involve revisiting the
-fundamental contributions of De Giorgi and Nash and connecting them with recent advances
-in nonuniformly elliptic problems. Furthermore, I will try to give an overview of
-the regularity theory for nonvariational elliptic problems, such as the Monge–Amp`ere
-equation, and discuss its connections to optimal transport theory.  
-
----
-
 **Speaker:** [Jen Hom](https://jhom6.math.gatech.edu/), Georgia Institute of Technology  
 **Title:** 3-Manifolds, Groups, and Heegaard Floer Homology  
 **Date:** October 2, 2025  
@@ -54,6 +38,11 @@ the set of 3-manifolds forms a monoid, and modulo an appropriate equivalence rel
 
 **Speaker:** [Alejandro Adem](https://personal.math.ubc.ca/~adem/), University of British Columbia  
 **Date:** October 23, 2025  
+**Title:** Topology and Symmetries  
+**Abstract:** In this lecture we will discuss how methods from algebraic topology can be applied to shed light on fundamental
+ questions related to finite group actions. We will start with basic invariants such as the Euler characteristic and explore
+  classical applications such as topological space forms as well as more recent work about actions on 4-dimensional manifolds
+   (joint with I. Hambleton). This will be illustrated with a variety of examples, as well as some open problems.
 
 ---
 
@@ -84,6 +73,23 @@ the set of 3-manifolds forms a monoid, and modulo an appropriate equivalence rel
 ---
 
 ## Past Lectures
+
+**Speaker:** [Sumiya Baasandorj](https://scholar.google.com/citations?user=QyoI7fQAAAAJ&hl=en), University of Ottawa  
+**Title:** Regularity for a Class of (Non)Variational Problems with (Non)Standard Growth  
+**Date:** September 25, 2025  
+**Abstract:** Regularity issues in (non)variational problems with (non)standard growth have been
+a central topic of analysis, witnessing tremendous development over the past century.
+Regularity techniques ultimately aim to show that suitable weak or distributional solutions
+are, in fact, classical solutions. In this talk, I will present some recent regularity
+results for a class of variational functionals with nonstandard growth conditions,
+namely the so-called Orlicz double phase functional. This will involve revisiting the
+fundamental contributions of De Giorgi and Nash and connecting them with recent advances
+in nonuniformly elliptic problems. Furthermore, I will try to give an overview of
+the regularity theory for nonvariational elliptic problems, such as the Monge–Amp`ere
+equation, and discuss its connections to optimal transport theory.  
+[Lecture slides](slides/Baasandorj.pdf)  
+
+---
 
 **Speaker:** [Emanuele Naldi](https://sites.google.com/view/emanuelenaldi/home-page), University of Genoa  
 **Title:** [Inexact Jordan–Kinderlehrer–Otto and Proximal-Gradient Algorithms in the Wasserstein Space: Links and Differences from the Hilbert Case](https://arxiv.org/abs/2505.23517)  
