@@ -19,17 +19,6 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 ## Upcoming Lectures
 
-**Speaker:** [Jen Hom](https://jhom6.math.gatech.edu/), Georgia Institute of Technology  
-**Title:** 3-Manifolds, Groups, and Heegaard Floer Homology  
-**Date:** October 2, 2025  
-**Location:** Exceptionally, this colloquium will take place in STEM 464.  
-**Abstract:** We will consider various ways to build 3-manifolds. Under the operation of connected sum, 
-the set of 3-manifolds forms a monoid, and modulo an appropriate equivalence relation, this monoid becomes
- a group. What is the structure of this group? What families of three-manifolds generate (or don’t generate) 
- this group? We give some answers to these questions using Heegaard Floer homology. This is joint work with
-  (various subsets of) I. Dai, K. Hendricks, M. Stoffregen, L. Truong, and I. Zemke.  
-
----
 
 **Speaker:** [Giusy Mazzone](https://www.queensu.ca/mathstat/people/faculty/profiles/mazzone), Queen's University  
 **Date:** October 16, 2025  
@@ -73,6 +62,18 @@ the set of 3-manifolds forms a monoid, and modulo an appropriate equivalence rel
 ---
 
 ## Past Lectures
+
+**Speaker:** [Jen Hom](https://jhom6.math.gatech.edu/), Georgia Institute of Technology  
+**Title:** 3-Manifolds, Groups, and Heegaard Floer Homology  
+**Date:** October 2, 2025  
+**Location:** Exceptionally, this colloquium will take place in STEM 464.  
+**Abstract:** We will consider various ways to build 3-manifolds. Under the operation of connected sum, 
+the set of 3-manifolds forms a monoid, and modulo an appropriate equivalence relation, this monoid becomes
+ a group. What is the structure of this group? What families of three-manifolds generate (or don’t generate) 
+ this group? We give some answers to these questions using Heegaard Floer homology. This is joint work with
+  (various subsets of) I. Dai, K. Hendricks, M. Stoffregen, L. Truong, and I. Zemke.  
+
+---
 
 **Speaker:** [Sumiya Baasandorj](https://scholar.google.com/citations?user=QyoI7fQAAAAJ&hl=en), University of Ottawa  
 **Title:** Regularity for a Class of (Non)Variational Problems with (Non)Standard Growth  
