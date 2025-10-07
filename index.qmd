@@ -20,8 +20,23 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 ## Upcoming Lectures
 
 
-**Speaker:** [Giusy Mazzone](https://www.queensu.ca/mathstat/people/faculty/profiles/mazzone), Queen's University  
+**Speaker:** [Giusy Mazzone](https://mast.queensu.ca/~gmazzone/index.html), Queen's University  
 **Date:** October 16, 2025  
+**Title:** On the Mathematical Analysis of Fluid–Solid Interaction Problems  
+**Abstract:** I will present several models describing the interactions between
+viscous incompressible fluids and solids, which may be either rigid or
+deformable. The governing equations for these interactions consist of the
+Navier–Stokes equations coupled with either the Euler equations for rigid body
+dynamics or the Navier equations of linearized elasticity. A common feature of
+these problems is that the governing equations have a dissipative—conservative
+(parabolic—hyperbolic) structure: while the fluid introduces dissipation in the
+mechanical energy of the coupled system, the solid contributes to the same
+energy with a conservative (more generally, non-decreasing) component. From a
+mathematical perspective, this interplay poses significant challenges when
+establishing the existence and stability of solutions to the governing
+equations. I will provide an overview of my contributions to the analysis of
+these problems for various mechanical systems involving fluid–solid
+interactions.
 
 ---
 
