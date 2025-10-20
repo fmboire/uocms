@@ -32,11 +32,26 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 **Speaker:** [Florian Dumpert](https://scholar.google.com/citations?user=Ry3IviAAAAAJ&hl=de), Federal Statistical Office of Germany  
 **Date:** October 30, 2025  
 **Location:** Exceptionally, this colloquium will take place in STEM 464.  
+**Title:** Reflections Regarding the Procedure and Methodology of Statistical Data Editing  
+**Abstract:** Statistical data editing in statistical production is, on the one hand, an essential part of the quality assurance
+of incoming data (and thus, subsequently, of the products of official statistics). On the other hand, however, it is also a
+comparatively complex and time-consuming step. Naturally, attempts are therefore regularly made to increase the efficiency of
+editing. (Which is also - by the way - entirely in keeping with the concept of quality.) German official statistics are currently
+undergoing a paradigm shift. Whereas in the past, data was often first accepted and then checked for plausibility, in future
+only (more or less) clean data is to be accepted. Selective editing and automated processing of the majority of cases, including
+the use of Machine Learning, are then the next step – a procedure that is nothing new in the world of official statistics. 
+The presentation will nevertheless address these points and take a closer look at some of them. In particular, a procedure for
+automated editing will be presented in more detail and the question of when a replacement of incorrect values can be described
+as 'good' or 'successful' will be examined.  
 
 ---
 
 **Speaker:** [Jeremy Quastel](https://www.math.toronto.edu/quastel/), University of Toronto  
 **Date:** November 6, 2025  
+**Title:** The KPZ fixed point  
+**Abstract:** We will survey some of the mathematics that has come out of the study of one dimensional random growth models, in 
+particular the surprising connection to integrable partial differential equations.  The talk is intended for a very broad audience
+ and no background is assumed.  
 
 ---
 
