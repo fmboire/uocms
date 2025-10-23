@@ -12,12 +12,13 @@ css: styles/custom.css
 
 Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UOCMS). This series brings together researchers from diverse institutions to present lectures on current developments in mathematics and statistics.
 
-# Fall 2025  
+# Upcoming Lectures
+
+## Fall 2025  
 **Time:** Thursdays, 1:00–2:00 pm  
 **Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
 [Add to Calendar](calendar/uocms_fall2025.ics)
 
-## Upcoming Lectures
 
 **Speaker:** [Alejandro Adem](https://personal.math.ubc.ca/~adem/), University of British Columbia  
 **Date:** October 23, 2025  
@@ -48,7 +49,7 @@ as 'good' or 'successful' will be examined.
 
 **Speaker:** [Jeremy Quastel](https://www.math.toronto.edu/quastel/), University of Toronto  
 **Date:** November 6, 2025  
-**Title:** The KPZ fixed point  
+**Title:** The Kardar–Parisi–Zhang fixed point  
 **Abstract:** We will survey some of the mathematics that has come out of the study of one dimensional random growth models, in 
 particular the surprising connection to integrable partial differential equations.  The talk is intended for a very broad audience
  and no background is assumed.  
@@ -70,7 +71,16 @@ particular the surprising connection to integrable partial differential equation
 
 ---
 
-## Past Lectures
+## Winter 2026
+**Time:** Wednesdays, 4:00–5:00 pm  
+**Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
+
+**Speaker:** [Christiane  Rousseau](https://dms.umontreal.ca/~rousseac/), Université de Montréal  
+**Date:** February 11, 2026  
+
+---
+
+# Past Lectures
 
 **Speaker:** [Giusy Mazzone](https://mast.queensu.ca/~gmazzone/index.html), Queen's University  
 **Date:** October 16, 2025  
