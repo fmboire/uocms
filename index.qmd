@@ -20,16 +20,6 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 [Add to Calendar](calendar/uocms_fall2025.ics)
 
 
-**Speaker:** [Alejandro Adem](https://personal.math.ubc.ca/~adem/), University of British Columbia  
-**Date:** October 23, 2025  
-**Title:** Topology and Symmetries  
-**Abstract:** In this lecture we will discuss how methods from algebraic topology can be applied to shed light on fundamental
- questions related to finite group actions. We will start with basic invariants such as the Euler characteristic and explore
-  classical applications such as topological space forms as well as more recent work about actions on 4-dimensional manifolds
-   (joint with I. Hambleton). This will be illustrated with a variety of examples, as well as some open problems.
-
----
-
 **Speaker:** [Florian Dumpert](https://scholar.google.com/citations?user=Ry3IviAAAAAJ&hl=de), Federal Statistical Office of Germany  
 **Date:** October 30, 2025  
 **Location:** Exceptionally, this colloquium will take place in STEM 464.  
@@ -81,6 +71,16 @@ particular the surprising connection to integrable partial differential equation
 ---
 
 # Past Lectures
+
+**Speaker:** [Alejandro Adem](https://personal.math.ubc.ca/~adem/), University of British Columbia  
+**Date:** October 23, 2025  
+**Title:** Topology and Symmetries  
+**Abstract:** In this lecture we will discuss how methods from algebraic topology can be applied to shed light on fundamental
+ questions related to finite group actions. We will start with basic invariants such as the Euler characteristic and explore
+  classical applications such as topological space forms as well as more recent work about actions on 4-dimensional manifolds
+   (joint with I. Hambleton). This will be illustrated with a variety of examples, as well as some open problems.
+
+---
 
 **Speaker:** [Giusy Mazzone](https://mast.queensu.ca/~gmazzone/index.html), Queen's University  
 **Date:** October 16, 2025  
