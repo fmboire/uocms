@@ -33,6 +33,15 @@ particular the surprising connection to integrable partial differential equation
 
 **Speaker:** [Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home), Bank of Canada  
 **Date:** November 13, 2025  
+**Title:** [Generalized Autoregressive Positive-Valued Processes](https://www.tandfonline.com/doi/full/10.1080/07350015.2023.2239869)  
+**Abstract:** We introduce generalized autoregressive positive-valued (GARP) 
+processes, a class of autoregressive and moving-average processes that extends 
+the class of existing autoregressive positive-valued (ARP) processes in one important dimension: each conditional moment dynamic is driven by
+a different and identifiable moving average of the variable of interest. The article provides ergodicity conditions for GARP processes
+and derives closed-form conditional and unconditional moments. The article also presents estimation and
+inference methods, illustrated by an application to European option pricing where the daily realized variance
+follows a GARP dynamic. Our results show that using GARP processes reduces pricing errors by substantially
+more than using ARP processes.  
 
 ---
 
