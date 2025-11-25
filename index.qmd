@@ -19,9 +19,15 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 **Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
 [Add to Calendar](calendar/uocms_fall2025.ics)
 
+---
 
 **Speaker:** [Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/), McGill University  
 **Date:** December 4, 2025  
+**Title:** A Pointwise Approach to Pointwise Ergodic Theorems  
+**Abstract:** Pointwise ergodic theorems link the global behaviour of a dynamical system to the local, often combinatorial, statistics observed along individual
+ orbits. They are powerful tools in ergodic theory, probability, number theory, and beyond. I will present a general yet elementary method for proving such 
+ theorems, inspired by ideas from descriptive set theory. This approach yields new kinds of pointwise ergodic theorems; I will describe several examples arising
+  from joint work with Jenna Zomback.  
 
 ---
 
