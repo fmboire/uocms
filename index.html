@@ -35,6 +35,35 @@ ul.task-list li input[type="checkbox"] {
 <link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="index_files/libs/bootstrap/bootstrap-bb462d781dde1847d9e3ccf7736099dd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles/custom.css">
 </head>
@@ -72,12 +101,21 @@ ul.task-list li input[type="checkbox"] {
 <h1>Upcoming Lectures</h1>
 <p><strong>Speaker:</strong> <a href="https://www.math.uh.edu/~lcappan/">Loïc Cappanera</a>, University of Houston<br>
 <strong>Date:</strong> Friday, December 12, 2025, 3:00-4:00 pm<br>
+<strong>Room:</strong> TBD<br>
 <strong>Title:</strong> Numerical Methods for Incompressible Flows with Variable Density: Analysis and Applications<br>
 <strong>Abstract:</strong> Incompressible multiphase flows, meaning flows involving fluids with variable density and viscosity, arise in many natural phenomena such as the interactions between the Earth mantle’s layers or between the ocean and atmosphere. Such flows also play an important role in engineering applications such as the production of aluminum or the storage of energy using liquid metal batteries. Thus, the development of efficient and robust numerical methods to approximate incompressible multiphase flows is crucial to bring a better understanding of the above problems. In this context, we will first highlight the main challenges one faces when solving the incompressible Navier-Stokes equations that governs the dynamics of such flows. After describing some of the classic methods used to approximate these equations when the density is constant, we will introduce two novel discretization for problems where the density is variable. We assume that fluids are immiscible and that the dynamical viscosity is a function of the density. Thus, the viscosity also becomes a space-time dependent variable. The proposed methods both use a level set technique to track the interface between the fluids and to reconstruct the fluid’s density and viscosity. Both methods also uses the momentum, equal to the density times the velocity, and the pressure as primary unknowns. This particular choice, commonly used in compressible fluid mechanics, allows us to derive formulations that yield time-independent stiffness matrices and that are suitable for spectral and pseudo-spectral methods. The two proposed methods differ on how the incompressibility constraint is enforced. One method uses a pressure correction projection method while the other uses an artificial compressibility technique. We will first analyze the stability and convergence properties of both our methods. Then, we will investigate numerically their robustness and accuracy on various setups involving either manufactured solutions, rotating flows or magneto-convection. We will conclude with a short outlook on future promising research directions.</p>
 <hr>
+<p><strong>Speaker:</strong> <a href="https://conormccoid.com/">Conor McCoid</a>, McMaster University<br>
+<strong>Date:</strong> Monday, December 15, 2025<br>
+<strong>Room:</strong> TBD<br>
+<strong>Title:</strong> Advances in Schwarz Methods<br>
+<strong>Abstract:</strong> Schwarz methods partition numerical domains to take advantage of parallelization in computing, while also acting as preconditioners. The domains may be partitioned physically into distinct regions, by field into distinct behaviours, and/or algebraically into distinct degrees of freedom. Schwarz methods tend to produce only linear convergence rates, and so should be combined with fast solvers such as Newton’s method or Krylov subspace methods. In this talk I explore two such approaches and new techniques to ensure accuracy, efficiency, and robustness. The first approach combines Newton and Schwarz in the context of a brittle fracture model, where I’ve added new backtracking to stabilize the Newton iterations. The second is a novel combination of Schwarz with Krylov subspace techniques.</p>
+<hr>
 <p><strong>Speaker:</strong> <a href="https://tattwamasiamrutam.wordpress.com/">Tattwamasi Amrutan</a>, Institute of Mathematics of the Polish Academy of Sciences<br>
 <strong>Date:</strong> TBD<br>
-<strong>Title:</strong> A Unified Perspective on Rigidity: From Groups to C<em>-Algebras <strong>Abstract:</strong> We will study the “Rigidity phenomena” which lie at the heart of modern group theory and dynamics. Beginning with Margulis’s Normal Subgroup Theorem, we will see that fixed-point structures survive surprising enlargements of the objects under study—from subgroups to invariant random subgroups, and beyond. In this talk, I will present a unified perspective on rigidity by passing through three increasingly flexible categories: deterministic fixed points, probabilistic fixed points, and finally operator-algebraic fixed points inside group C</em>-algebras and von Neumann algebras. I will describe new results establishing non-commutative analogues of “Intermediate Factor Theorems” and a characterization of invariant subalgebras for free groups. Finally, I will also discuss the emergence of strict comparison in the reduced group C*-algebra of F_2.</p>
+<strong>Room:</strong> TBD<br>
+<strong>Title:</strong> A Unified Perspective on Rigidity: From Groups to <span class="math inline">\(C^*\)</span>-Algebras<br>
+<strong>Abstract:</strong> We will study the “Rigidity phenomena” which lie at the heart of modern group theory and dynamics. Beginning with Margulis’s Normal Subgroup Theorem, we will see that fixed-point structures survive surprising enlargements of the objects under study—from subgroups to invariant random subgroups, and beyond. In this talk, I will present a unified perspective on rigidity by passing through three increasingly flexible categories: deterministic fixed points, probabilistic fixed points, and finally operator-algebraic fixed points inside group <span class="math inline">\(C^*\)</span>-algebras and von Neumann algebras. I will describe new results establishing non-commutative analogues of “Intermediate Factor Theorems” and a characterization of invariant subalgebras for free groups. Finally, I will also discuss the emergence of strict comparison in the reduced group <span class="math inline">\(C^*\)</span>-algebra of <span class="math inline">\(F_2\)</span>.</p>
 <hr>
 <section id="winter-2026" class="level2">
 <h2 class="anchored" data-anchor-id="winter-2026">Winter 2026</h2>
