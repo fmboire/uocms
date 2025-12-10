@@ -14,20 +14,44 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 # Upcoming Lectures
 
-## Fall 2025  
-**Time:** Thursdays, 1:00–2:00 pm  
-**Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
-[Add to Calendar](calendar/uocms_fall2025.ics)
+
+**Speaker:** [Loïc Cappanera](https://www.math.uh.edu/~lcappan/), University of Houston  
+**Date:** Friday, December 12, 2025, 3:00-4:00 pm  
+**Title:** Numerical Methods for Incompressible Flows with Variable Density: Analysis and Applications  
+**Abstract:** Incompressible multiphase flows, meaning flows involving fluids with variable density and viscosity, arise
+ in many natural phenomena such as the interactions between the Earth mantle's layers or between the ocean and atmosphere. 
+ Such flows also play an important role in engineering applications such as the production of aluminum or the storage of 
+ energy using liquid metal batteries. Thus, the development of efficient and robust numerical methods to approximate 
+ incompressible multiphase flows is crucial to bring a better understanding of the above problems.
+In this context, we will first highlight the main challenges one faces when solving the incompressible Navier-Stokes 
+equations that governs the dynamics of such flows. After describing some of the classic methods used to approximate these 
+equations when the density is constant, we will introduce two novel discretization for problems where the density is 
+variable. We assume that fluids are immiscible and that the dynamical viscosity is a function of the density. Thus, 
+the viscosity also becomes a space-time dependent variable. The proposed methods both use a level set technique to 
+track the interface between the fluids and to reconstruct the fluid's density and viscosity. Both methods also uses 
+the momentum, equal to the density times the velocity, and the pressure as primary unknowns. This particular choice, 
+commonly used in compressible fluid mechanics, allows us to derive formulations that yield time-independent stiffness 
+matrices and that are suitable for spectral and pseudo-spectral methods. The two proposed methods differ on how the 
+incompressibility constraint is enforced. One method uses a pressure correction projection method while the other uses 
+an artificial compressibility technique. We will first analyze the stability and convergence properties of both our methods. 
+Then, we will investigate numerically their robustness and accuracy on various setups involving either manufactured 
+solutions, rotating flows or magneto-convection. We will conclude with a short outlook on future promising research 
+directions.  
+
 
 ---
 
-**Speaker:** [Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/), McGill University  
-**Date:** December 4, 2025  
-**Title:** A Pointwise Approach to Pointwise Ergodic Theorems  
-**Abstract:** Pointwise ergodic theorems link the global behaviour of a dynamical system to the local, often combinatorial, statistics observed along individual
- orbits. They are powerful tools in ergodic theory, probability, number theory, and beyond. I will present a general yet elementary method for proving such 
- theorems, inspired by ideas from descriptive set theory. This approach yields new kinds of pointwise ergodic theorems; I will describe several examples arising
-  from joint work with Jenna Zomback.  
+**Speaker:** [Tattwamasi Amrutan](https://tattwamasiamrutam.wordpress.com/), Institute of Mathematics of the Polish Academy of Sciences  
+**Date:** TBD  
+**Title:** A Unified Perspective on Rigidity: From Groups to C*-Algebras 
+**Abstract:** We will study the "Rigidity phenomena" which lie at the heart of modern group theory and dynamics. 
+Beginning with Margulis's Normal Subgroup Theorem, we will see that fixed-point structures survive surprising enlargements 
+of the objects under study—from subgroups to invariant random subgroups, and beyond. In this talk, I will present a unified
+ perspective on rigidity by passing through three increasingly flexible categories: deterministic fixed points, 
+ probabilistic fixed points, and finally operator-algebraic fixed points inside group C*-algebras and von Neumann algebras.
+  I will describe new results establishing non-commutative analogues of "Intermediate Factor Theorems" and a 
+  characterization of invariant subalgebras for free groups. Finally, I will also discuss the emergence of strict 
+  comparison in the reduced group C*-algebra of F_2.  
 
 ---
 
@@ -41,6 +65,22 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 ---
 
 # Past Lectures
+
+---
+
+## Fall 2025  
+**Time:** Thursdays, 1:00–2:00 pm  
+**Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
+
+**Speaker:** [Anush Tserunyan](https://www.math.mcgill.ca/atserunyan/), McGill University  
+**Date:** December 4, 2025  
+**Title:** A Pointwise Approach to Pointwise Ergodic Theorems  
+**Abstract:** Pointwise ergodic theorems link the global behaviour of a dynamical system to the local, often combinatorial, statistics observed along individual
+ orbits. They are powerful tools in ergodic theory, probability, number theory, and beyond. I will present a general yet elementary method for proving such 
+ theorems, inspired by ideas from descriptive set theory. This approach yields new kinds of pointwise ergodic theorems; I will describe several examples arising
+  from joint work with Jenna Zomback.  
+
+---
 
 **Speaker:** [Mark Reesor](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/mark-reesor/index.html), Wilfrid Laurier University  
 **Date:** November 20, 2025  
