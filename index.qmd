@@ -14,10 +14,25 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 # Upcoming Lectures
 
+**Speaker:** [Tattwamasi Amrutan](https://tattwamasiamrutam.wordpress.com/), Institute of Mathematics of the Polish Academy of Sciences  
+**Date:** Wednesday, December 10, 3:00-4:00 pm  
+**Room:** STEM 364  
+**Title:** A Unified Perspective on Rigidity: From Groups to $C^*$-Algebras  
+**Abstract:** We will study the "Rigidity phenomena" which lie at the heart of modern group theory and dynamics. 
+Beginning with Margulis's Normal Subgroup Theorem, we will see that fixed-point structures survive surprising enlargements 
+of the objects under study—from subgroups to invariant random subgroups, and beyond. In this talk, I will present a unified
+ perspective on rigidity by passing through three increasingly flexible categories: deterministic fixed points, 
+ probabilistic fixed points, and finally operator-algebraic fixed points inside group $C^*$-algebras and von Neumann algebras.
+  I will describe new results establishing non-commutative analogues of "Intermediate Factor Theorems" and a 
+  characterization of invariant subalgebras for free groups. Finally, I will also discuss the emergence of strict 
+  comparison in the reduced group $C^*$-algebra of $F_2$.  
+
+---
+
 
 **Speaker:** [Loïc Cappanera](https://www.math.uh.edu/~lcappan/), University of Houston  
 **Date:** Friday, December 12, 2025, 3:00-4:00 pm  
-**Room:** TBD  
+**Room:** STEM 664  
 **Title:** Numerical Methods for Incompressible Flows with Variable Density: Analysis and Applications  
 **Abstract:** Incompressible multiphase flows, meaning flows involving fluids with variable density and viscosity, arise
  in many natural phenomena such as the interactions between the Earth mantle's layers or between the ocean and atmosphere. 
@@ -42,8 +57,8 @@ directions.
 ---
 
 **Speaker:** [Conor McCoid](https://conormccoid.com/), McMaster University  
-**Date:** Monday, December 15, 2025  
-**Room:** TBD  
+**Date:** Monday, December 15, 2025, 3:00-4:00 pm    
+**Room:** STEM 664  
 **Title:** Advances in Schwarz Methods  
 **Abstract:** Schwarz methods partition numerical domains to take advantage of parallelization in computing, while also 
 acting as preconditioners. The domains may be partitioned physically into distinct regions, by field into distinct 
@@ -51,24 +66,27 @@ behaviours, and/or algebraically into distinct degrees of freedom. Schwarz metho
 rates, and so should be combined with fast solvers such as Newton's method or Krylov subspace methods. In this talk I 
 explore two such approaches and new techniques to ensure accuracy, efficiency, and robustness. The first approach combines 
 Newton and Schwarz in the context of a brittle fracture model, where I've added new backtracking to stabilize the Newton 
-iterations. The second is a novel combination of Schwarz with Krylov subspace techniques.
+iterations. The second is a novel combination of Schwarz with Krylov subspace techniques.  
 
 ---
 
-**Speaker:** [Tattwamasi Amrutan](https://tattwamasiamrutam.wordpress.com/), Institute of Mathematics of the Polish Academy of Sciences  
-**Date:** TBD  
-**Room:** TBD  
-**Title:** A Unified Perspective on Rigidity: From Groups to $C^*$-Algebras  
-**Abstract:** We will study the "Rigidity phenomena" which lie at the heart of modern group theory and dynamics. 
-Beginning with Margulis's Normal Subgroup Theorem, we will see that fixed-point structures survive surprising enlargements 
-of the objects under study—from subgroups to invariant random subgroups, and beyond. In this talk, I will present a unified
- perspective on rigidity by passing through three increasingly flexible categories: deterministic fixed points, 
- probabilistic fixed points, and finally operator-algebraic fixed points inside group $C^*$-algebras and von Neumann algebras.
-  I will describe new results establishing non-commutative analogues of "Intermediate Factor Theorems" and a 
-  characterization of invariant subalgebras for free groups. Finally, I will also discuss the emergence of strict 
-  comparison in the reduced group $C^*$-algebra of $F_2$.  
+**Speaker:** [David Jekel](https://davidjekel.com/), University of Copenhagen  
+**Date:** Wednesday, December 17, 2025, 3:00-4:00 pm  
+**Room:** STEM 664  
+**Title:** Contractibility of the Unitary Group of von Neumann Algebras  
+**Abstract:** This talk addresses the topological properties of infinite-dimensional objects coming from functional analysis. 
+Kuiper in the 1960s proved that the group of unitary operators on an infinite-dimensional Hilbert space is a contractible 
+space, meaning it can be continuously deformed to a point. We consider the analogous question of contractibility of the unitary 
+groups of von Neumann algebras, which are certain algebras of operators on a Hilbert space. The last unsolved case was that of 
+"finite" von Neumann algebras (those which satisfy that $xy = 1$ implies $yx = 1$ similar to finite-dimensional matrix algebras). 
+We solve this case by a fundamentally different technique than the other cases, inspired by random matrix theory. We construct 
+a homotopy by first smoothing out the spectral measure of the unitaries using free convolution, then applying functional calculus 
+to push the mass toward 1.  
 
 ---
+
+
+
 
 ## Winter 2026
 **Time:** Wednesdays, 4:00–5:00 pm  
