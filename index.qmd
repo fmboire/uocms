@@ -17,6 +17,38 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 ### Special Lectures in Analysis and Numerical Methods
 
 
+**Speaker:** [David Jekel](https://davidjekel.com/), University of Copenhagen  
+**Date:** Wednesday, December 17, 2025, 3:00-4:00 pm  
+**Room:** STEM 664  
+**Title:** Contractibility of the Unitary Group of von Neumann Algebras  
+**Abstract:** This talk addresses the topological properties of infinite-dimensional objects coming from functional analysis. 
+Kuiper in the 1960s proved that the group of unitary operators on an infinite-dimensional Hilbert space is a contractible 
+space, meaning it can be continuously deformed to a point. We consider the analogous question of contractibility of the unitary 
+groups of von Neumann algebras, which are certain algebras of operators on a Hilbert space. The last unsolved case was that of 
+"finite" von Neumann algebras (those which satisfy that $xy = 1$ implies $yx = 1$ similar to finite-dimensional matrix algebras). 
+We solve this case by a fundamentally different technique than the other cases, inspired by random matrix theory. We construct 
+a homotopy by first smoothing out the spectral measure of the unitaries using free convolution, then applying functional calculus 
+to push the mass toward 1.  
+
+---
+
+
+### Winter 2026
+**Time:** Wednesdays, 4:00–5:00 pm  
+**Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
+
+**Speaker:** [Christiane  Rousseau](https://dms.umontreal.ca/~rousseac/), Université de Montréal  
+**Date:** February 11, 2026  
+
+---
+
+# Past Lectures
+
+---
+
+### Special Lectures in Analysis and Numerical Methods
+
+
 **Speaker:** [Loïc Cappanera](https://www.math.uh.edu/~lcappan/), University of Houston  
 **Date:** Friday, December 12, 2025, 3:00-4:00 pm  
 **Room:** STEM 664  
@@ -56,37 +88,6 @@ Newton and Schwarz in the context of a brittle fracture model, where I've added 
 iterations. The second is a novel combination of Schwarz with Krylov subspace techniques.  
 
 ---
-
-**Speaker:** [David Jekel](https://davidjekel.com/), University of Copenhagen  
-**Date:** Wednesday, December 17, 2025, 3:00-4:00 pm  
-**Room:** STEM 664  
-**Title:** Contractibility of the Unitary Group of von Neumann Algebras  
-**Abstract:** This talk addresses the topological properties of infinite-dimensional objects coming from functional analysis. 
-Kuiper in the 1960s proved that the group of unitary operators on an infinite-dimensional Hilbert space is a contractible 
-space, meaning it can be continuously deformed to a point. We consider the analogous question of contractibility of the unitary 
-groups of von Neumann algebras, which are certain algebras of operators on a Hilbert space. The last unsolved case was that of 
-"finite" von Neumann algebras (those which satisfy that $xy = 1$ implies $yx = 1$ similar to finite-dimensional matrix algebras). 
-We solve this case by a fundamentally different technique than the other cases, inspired by random matrix theory. We construct 
-a homotopy by first smoothing out the spectral measure of the unitaries using free convolution, then applying functional calculus 
-to push the mass toward 1.  
-
----
-
-
-### Winter 2026
-**Time:** Wednesdays, 4:00–5:00 pm  
-**Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
-
-**Speaker:** [Christiane  Rousseau](https://dms.umontreal.ca/~rousseac/), Université de Montréal  
-**Date:** February 11, 2026  
-
----
-
-# Past Lectures
-
----
-
-### Special Lectures in Analysis and Numerical Methods
 
 **Speaker:** [Tattwamasi Amrutan](https://tattwamasiamrutam.wordpress.com/), Institute of Mathematics of the Polish Academy of Sciences  
 **Date:** Wednesday, December 10, 3:00-4:00 pm  
