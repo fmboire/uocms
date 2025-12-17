@@ -14,7 +14,21 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 # Upcoming Lectures
 
+### Winter 2026
+**Time:** Wednesdays, 4:00–5:00 pm  
+**Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
+
+**Speaker:** [Christiane  Rousseau](https://dms.umontreal.ca/~rousseac/), Université de Montréal  
+**Date:** February 11, 2026  
+
+---
+
+# Past Lectures
+
+---
+
 ### Special Lectures in Analysis and Numerical Methods
+
 
 
 **Speaker:** [David Jekel](https://davidjekel.com/), University of Copenhagen  
@@ -32,22 +46,19 @@ to push the mass toward 1.
 
 ---
 
-
-### Winter 2026
-**Time:** Wednesdays, 4:00–5:00 pm  
-**Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
-
-**Speaker:** [Christiane  Rousseau](https://dms.umontreal.ca/~rousseac/), Université de Montréal  
-**Date:** February 11, 2026  
+**Speaker:** [Conor McCoid](https://conormccoid.com/), McMaster University  
+**Date:** Monday, December 15, 2025, 3:00-4:00 pm    
+**Room:** STEM 664  
+**Title:** Advances in Schwarz Methods  
+**Abstract:** Schwarz methods partition numerical domains to take advantage of parallelization in computing, while also 
+acting as preconditioners. The domains may be partitioned physically into distinct regions, by field into distinct 
+behaviours, and/or algebraically into distinct degrees of freedom. Schwarz methods tend to produce only linear convergence 
+rates, and so should be combined with fast solvers such as Newton's method or Krylov subspace methods. In this talk I 
+explore two such approaches and new techniques to ensure accuracy, efficiency, and robustness. The first approach combines 
+Newton and Schwarz in the context of a brittle fracture model, where I've added new backtracking to stabilize the Newton 
+iterations. The second is a novel combination of Schwarz with Krylov subspace techniques.  
 
 ---
-
-# Past Lectures
-
----
-
-### Special Lectures in Analysis and Numerical Methods
-
 
 **Speaker:** [Loïc Cappanera](https://www.math.uh.edu/~lcappan/), University of Houston  
 **Date:** Friday, December 12, 2025, 3:00-4:00 pm  
@@ -72,20 +83,6 @@ an artificial compressibility technique. We will first analyze the stability and
 Then, we will investigate numerically their robustness and accuracy on various setups involving either manufactured 
 solutions, rotating flows or magneto-convection. We will conclude with a short outlook on future promising research 
 directions.  
-
----
-
-**Speaker:** [Conor McCoid](https://conormccoid.com/), McMaster University  
-**Date:** Monday, December 15, 2025, 3:00-4:00 pm    
-**Room:** STEM 664  
-**Title:** Advances in Schwarz Methods  
-**Abstract:** Schwarz methods partition numerical domains to take advantage of parallelization in computing, while also 
-acting as preconditioners. The domains may be partitioned physically into distinct regions, by field into distinct 
-behaviours, and/or algebraically into distinct degrees of freedom. Schwarz methods tend to produce only linear convergence 
-rates, and so should be combined with fast solvers such as Newton's method or Krylov subspace methods. In this talk I 
-explore two such approaches and new techniques to ensure accuracy, efficiency, and robustness. The first approach combines 
-Newton and Schwarz in the context of a brittle fracture model, where I've added new backtracking to stabilize the Newton 
-iterations. The second is a novel combination of Schwarz with Krylov subspace techniques.  
 
 ---
 
