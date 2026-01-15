@@ -14,6 +14,22 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 # Upcoming Lectures
 
+### Winter 2026 - Special Lecture in Probability and Statistics
+
+---
+
+**Speaker:** [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home), University of Waterloo  
+**Date:** Friday, January 30, 3:00-4:00 pm  
+**Room:** STEM 664  
+**Title:** Uncovering All Highly Credible Binary Treatment Hierarchy Questions in Network Meta-Analysis  
+**Abstract:** Decision problems with multiple treatment options generate a vast number of possible “hierarchy” questions, such as which treatments are consistently
+ among the best, or whether certain options consistently rank in a particular order. As the number of treatments grows, this space becomes too large to evaluate
+  systematically. In network meta-analysis (NMA), a workaround is to pre-specify hierarchy questions of interest and evaluate their empirical support, but this 
+  risks overlooking other strongly supported conclusions. We propose an efficient algorithmic approach that automatically identifies all binary hierarchy questions 
+  whose empirical support exceeds a chosen credibility threshold (e.g., 95%), followed by a pruning step that removes redundant results. We classify binary hierarchy 
+  questions into six types, spanning conventional comparisons based on pairwise comparisons or ranking probabilities as well as more complex structures. The method is 
+  implemented in an R package and illustrated using NMAs on diabetes and depression treatments.  
+
 ### Winter 2026
 **Time:** Wednesdays, 4:00–5:00 pm  
 **Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
