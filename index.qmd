@@ -36,6 +36,15 @@ and how the study of the unfolding of these singularities allows understanding b
 
 **Speaker:** [Jonathan Yu-Meng Li](https://www.jonli.net/), Telfer School of Management  
 **Date:** February 18, 2026  
+**Title:** Advances in Wasserstein Distributionally Robust Optimization  
+**Abstract:** Wasserstein distributionally robust optimization (DRO), rooted in optimal transport, has become a widely used tool in modern AI/ML for promoting 
+stability under distribution shift and improving out-of-sample performance. This talk presents recent advances that clarify when and why Wasserstein DRO works—and 
+when it admits exact simplifications. We first develop generalization guarantees beyond classical expected-loss settings, showing how robustness induces explicit 
+and implicit regularization across broad classes of risk criteria. We then give a complete characterization of projection equivalence—precise conditions under 
+which a high-dimensional worst-case problem over a Wasserstein ball reduces exactly to a one-dimensional formulation. Finally, we extend these insights to 
+conditional optimization with side information via a unified optimal-transport framework based on unions of Wasserstein balls. Together, these results provide 
+a cohesive suite of principles and tools for modeling and solving data-driven optimization problems via Wasserstein DRO—linking statistical guarantees, structural 
+simplification, and tractable conditional formulations within a single optimal-transport perspective.  
 
 ---
 
