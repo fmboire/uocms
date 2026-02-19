@@ -20,17 +20,23 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 ---
 
-**Speaker:** [Christiane  Rousseau](https://dms.umontreal.ca/~rousseac/), Université de Montréal  
-**Date:** February 11, 2026  
-**Title:** The Equivalence Problem in Analytic Dynamics  
-**Abstract:** A central problem in local dynamics is the equivalence problem: when are two analytic systems locally equivalent under an analytic change
- of coordinates? In the neighbourhood of a singular point, representatives of equivalence classes could be given by normal forms. But, most often, the 
- changes of coordinates to normal form diverge. Why? What does it mean? 
-Unfolding the singularities reveals the geometric obstructions to the convergence to normal form. In this talk, we discuss a class of singularities and 
-their unfoldings for which we can provide moduli spaces for the equivalence problems. We explain the common geometric features of these singularities, 
-and how the study of the unfolding of these singularities allows understanding both the singularities themselves, and the obstructions to the existence
- of analytic changes of coordinates to normal form.  
+**Speaker:** [Didier Lesesvre](https://lesesvre.perso.math.cnrs.fr/), Université de Lille  
+**Date:** February 25, 2026  
 
+---
+
+**Speaker:** [Ari Schnidman](https://cst.temple.edu/directory/ari-shnidman), Temple University  
+**Date:** March 4, 2026  
+
+---
+
+**Speaker:** [Jonathan Hanselman](https://math.indiana.edu/about/faculty/hanselman-jonathan.html), Indiana University Bloomington  
+**Date:** April 8, 2026  
+
+
+# Past Lectures
+
+### Winter 2026
 
 ---
 
@@ -48,21 +54,17 @@ simplification, and tractable conditional formulations within a single optimal-t
 
 ---
 
-**Speaker:** [Didier Lesesvre](https://lesesvre.perso.math.cnrs.fr/), Université de Lille  
-**Date:** February 25, 2026  
+**Speaker:** [Christiane  Rousseau](https://dms.umontreal.ca/~rousseac/), Université de Montréal  
+**Date:** February 11, 2026  
+**Title:** The Equivalence Problem in Analytic Dynamics  
+**Abstract:** A central problem in local dynamics is the equivalence problem: when are two analytic systems locally equivalent under an analytic change
+ of coordinates? In the neighbourhood of a singular point, representatives of equivalence classes could be given by normal forms. But, most often, the 
+ changes of coordinates to normal form diverge. Why? What does it mean? 
+Unfolding the singularities reveals the geometric obstructions to the convergence to normal form. In this talk, we discuss a class of singularities and 
+their unfoldings for which we can provide moduli spaces for the equivalence problems. We explain the common geometric features of these singularities, 
+and how the study of the unfolding of these singularities allows understanding both the singularities themselves, and the obstructions to the existence
+ of analytic changes of coordinates to normal form.  
 
----
-
-**Speaker:** [Ari Schnidman](https://cst.temple.edu/directory/ari-shnidman), Temple University  
-**Date:** March 4, 2026  
-
----
-
-**Speaker:** [Jonathan Hanselman](https://math.indiana.edu/about/faculty/hanselman-jonathan.html), Indiana University Bloomington  
-**Date:** April 8, 2026  
-
-
-# Past Lectures
 
 ### Winter 2026 - Special Lecture in Probability and Statistics
 
