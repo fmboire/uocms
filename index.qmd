@@ -18,21 +18,7 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 **Time:** Wednesdays, 4:00–5:00 pm  
 **Location:** University of Ottawa, STEM building, room 664 (unless otherwise specified)  
 
----
 
-**Speaker:** [Didier Lesesvre](https://lesesvre.perso.math.cnrs.fr/), Université de Lille  
-**Date:** February 25, 2026  
-**Title:** A Connection Between Zeros and Central Values of L-Functions  
-**Abstract:** L-functions appear as generating functions encapsulating information about various objects such as 
-Galois representations, elliptic curves, arithmetic functions, modular forms, Maass forms, etc. Studying L-functions 
-is therefore of utmost importance in number theory at large. Two of their attached data carry critical information: 
-their zeros, which govern the distributional behavior of underlying objects; and their central values, which are 
-related to invariants such as the class number of a field extension. 
-We will discuss the important conjectures, one concerning the distribution of the zeros and one concerning the 
-distribution of the central values, and explain a general principle that any restricted result towards the first 
-conjecture can be refined to show that most corresponding central values have the typical distribution predicted by
- the second conjecture. We will instanciate this general principle for a wide class of L-functions, and provide a more
-  detailed discussion in the case of L-functions attached to modular forms.  
 
 
 ---
@@ -54,6 +40,22 @@ conjecture can be refined to show that most corresponding central values have th
 # Past Lectures
 
 ### Winter 2026
+
+---
+
+**Speaker:** [Didier Lesesvre](https://lesesvre.perso.math.cnrs.fr/), Université de Lille  
+**Date:** February 25, 2026  
+**Title:** A Connection Between Zeros and Central Values of $L$-Functions  
+**Abstract:** $L$-functions appear as generating functions encapsulating information about various objects such as 
+Galois representations, elliptic curves, arithmetic functions, modular forms, Maass forms, etc. Studying $L$-functions 
+is therefore of utmost importance in number theory at large. Two of their attached data carry critical information: 
+their zeros, which govern the distributional behavior of underlying objects; and their central values, which are 
+related to invariants such as the class number of a field extension. 
+We will discuss the important conjectures, one concerning the distribution of the zeros and one concerning the 
+distribution of the central values, and explain a general principle that any restricted result towards the first 
+conjecture can be refined to show that most corresponding central values have the typical distribution predicted by
+ the second conjecture. We will instanciate this general principle for a wide class of $L$-functions, and provide a more
+  detailed discussion in the case of $L$-functions attached to modular forms.  
 
 ---
 
