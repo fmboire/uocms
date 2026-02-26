@@ -23,7 +23,7 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 ---
 
-**Speaker:** [Ari Schnidman](https://cst.temple.edu/directory/ari-shnidman), Temple University  
+**Speaker:** [Ari Shnidman](https://cst.temple.edu/directory/ari-shnidman), Temple University  
 **Date:** March 4, 2026  
 **Title:** On the Geometric Nature of Rational Points  
 **Abstract:** Many famous results in number theory take the following form: the only (or at least most) rational solutions in a particular family of equations are the
