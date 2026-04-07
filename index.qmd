@@ -20,6 +20,22 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
 
 
 
+---
+
+**Speaker:** [Jonathan Hanselman](https://math.indiana.edu/about/faculty/hanselman-jonathan.html), Indiana University Bloomington  
+**Date:** April 8, 2026  
+**Title:** The Cosmetic Surgery Conjecture and Heegaard Floer Homology  
+**Abstract:** Two key objects of study in low-dimensional topology are knots and 3-dimensional manifolds; these are in fact deeply intertwined, related by an operation 
+called Dehn surgery that uses knots as blueprints for building 3-manifolds. There are many open questions about this fundamental operation, and I will survey progress 
+on one of these: the cosmetic surgery conjecture. I will focus on results powered by a family of knot and 3-manifold invariants known as Heegaard Floer homology. I will 
+introduce these invariants and describe their interaction with Dehn surgery, using a recent reinterpretation of the original definition using immersed curves. In this 
+modern language the theory associates to a knot an immersed curve in the punctured torus and the invariant for a 3-manifold obtained by Dehn surgery is computed by counting 
+intersection points of curves in the punctured torus. Symmetries of the curves can be exploited to find strong obstructions to cosmetic surgeries.  
+
+
+# Past Lectures
+
+### Winter 2026
 
 ---
 
@@ -31,15 +47,6 @@ Welcome to the University of Ottawa Colloquium in Mathematics and Statistics (UO
   others. I'll discuss two newer instances of this phenomenon. The first is related to Hilbert's 10th problem on the solubility of polynomial equations over rings of 
   integers. The second is related to Mazur's Program B, which aims to classify all rational points on all modular curves.   
 
----
-
-**Speaker:** [Jonathan Hanselman](https://math.indiana.edu/about/faculty/hanselman-jonathan.html), Indiana University Bloomington  
-**Date:** April 8, 2026  
-
-
-# Past Lectures
-
-### Winter 2026
 
 ---
 
